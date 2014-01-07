@@ -672,7 +672,7 @@ a.qa-nav-sub-selected:hover{
     margin-top: 6px;
     vertical-align: middle;
 }
-.qa-q-item-when{
+.qa-q-item-when, .qa-q-view-when{
 	float: right;
     margin-left: 10px;
 }
@@ -861,31 +861,31 @@ float: left;
 	line-height: 100%;
 }
 .qa-a-count-pad {
-	font-size:11px;
+	font-size:13px;
 }
 .qa-view-count {
 	background: url("images/icons.png") no-repeat scroll 0 -3168px transparent;
     color: #8F5EA3;
     float: right;
-    font-size: 11px;
+    font-size: 13px;
     margin: -1px 0 0 5px;
     padding-left: 20px;
 }
 .qa-q-view-main .qa-view-count{
 	margin: 2px 10px 0 2px;
 }
-.qa-q-item-where-data{
+.qa-q-item-where-data, .qa-q-view-where-data{
 	background: url("images/icons.png") no-repeat scroll 0 -1275px transparent;
     float: left;
     height: 17px;
     padding-left: 20px;
 }
-.qa-q-item-who-data{
+.qa-q-item-who-data, .qa-q-view-who-data{
 	background: url("images/icons.png") no-repeat scroll 0 -7479px transparent;
     margin-left: 5px;
     padding-left: 20px;
 }
-.qa-q-item-who-points-data{
+.qa-q-item-who-points-data, .qa-q-view-who-points-data{
 	background: url("images/icons.png") no-repeat scroll 0 -1190px transparent;
     margin-left: 5px;
     padding-left: 20px;	
@@ -893,7 +893,8 @@ float: left;
 .qa-view-count-data {
 	font-weight:bold;
 }
-.qa-view-count-pad,.qa-q-item-where-pad,.qa-q-item-who-pad,.qa-q-item-who-points-pad{
+.qa-view-count-pad,.qa-q-item-where-pad,.qa-q-item-who-pad,.qa-q-item-who-points-pad,
+.qa-view-count-pad,.qa-q-view-where-pad,.qa-q-view-who-pad,.qa-q-view-who-points-pad{
 	display:none;
 }
 /* Tags, users and categories */
