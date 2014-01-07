@@ -1,5 +1,5 @@
 # Q2A Studio Theme [![Question2Answer](http://qa-themes.com/files/q2a-logo.png)](http://www.question2answer.org/) [![Question2Answer Themes](http://qa-themes.com/files/qa-logo.jpg)](http://qa-themes.com/)
-================
+
 ## Description
 Studio Theme is a free Question2Answer Theme with simple and minimal design suitable for education and business communities.
 this theme is designed by [Towhid Nategheian](http://TowhidN.com) from [QA-Themes.com](http://QA-Themes.com)
